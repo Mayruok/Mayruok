@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayruok
 - 👀 I’m interested in tech and coding   
-- 🌱 I’m currently learning data analytics 
+- 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 You can reach me at okenabirhiem@gmail.com
 
