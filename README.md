@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Mayruok
-- 👀 I’m interested in tech and coding   
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on projects 
-- 📫 You can reach me at okenabirhiem@gmail.com
+👩🏽‍💻 MSc Data Science student  
+📊 Interested in Machine Learning, Big Data & Analytics  
+📈 Building projects in Python, SQL & Data Visualisation  
+🤝 Open to collaboration & entry-level data roles  
 
 <!---
 Mayruok/Mayruok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
